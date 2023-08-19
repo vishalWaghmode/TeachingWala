@@ -25,8 +25,7 @@ function AllQuestions() {
             <div>
               This is the discription of the problem statment which u have
               given or the what ans u are being accepting form the front person
-              This is the discription of the problem statment which u have
-              given or the what ans u are being accepting form the front person</div>
+              This is the discription of the problem statment which u have</div>
           </div>
           <div style={{ display: "flex" }}>
             <span className='question-tags'>React</span>
