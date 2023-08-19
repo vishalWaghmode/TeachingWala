@@ -1,0 +1,11 @@
+.teach-index{
+    display: flex;
+    min-height: 85vh;
+    min-width: fit-content;
+}
+
+.teach-index-content{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
